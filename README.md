@@ -26,3 +26,5 @@ Motion sensing IoT --> Raspberry-Pi, Python, PiCam module rev1.3
 Custom Cloud Endpoint - AI image Recognition - Text to Speech AI - IoT platform --> AutoML, AWS SDK,
 
 Front-End --> React.JS Request rerouted to Django REST API (Python)
+
+link: https://devpost.com/software/hooli-dream-team
